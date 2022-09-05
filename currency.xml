@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <currencys>
+        <currency name="Euro" year="2011">
+            <country title="Estonia"></country>
+        </currency>
+        <currency name="Rubles" year="1993">
+            <country title="Russia"></country>
+        </currency>
+        <currency name="US Dollar" year="1913">
+            <country title="USA"></country>
+        </currency>
+        <currency name="Canadian Dollar" year="1858">
+            <country title="Canada"></country>
+        </currency>
+        <currency name="Brazilian Real" year="1994">
+            <country title="Brazil"></country>
+        </currency>
+        <currency name="Mexican Peso" year="1993">
+            <country title="Mexico"></country>
+        </currency>
+        <currency name="Yen" year="1869">
+            <country title="Japan"></country>
+        </currency>
+        <currency name="Renminbi" year="1948">
+            <country title="China"></country>
+        </currency>
+        <currency name="Korean Won" year="1902">
+            <country title="Korea"></country>
+        </currency>
+        <currency name="Nigeria Naira" year="1973">
+            <country title="Nigeria"></country>
+        </currency>
+        <currency name="Zloty" year="1924">
+            <country title="Poland"></country>
+        </currency>
+    </currencys>
+</root>
